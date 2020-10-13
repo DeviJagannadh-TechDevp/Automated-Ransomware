@@ -8,3 +8,7 @@ Ransomware is a type of malicious software cyber criminals use to block you from
 
 
 How to run this tool :- youtube.com
+
+
+Contributed by :- Devi Jagannadh Kotha
+Contact        :- devijagannadh@gmail.com , admin@techdevp.online 
