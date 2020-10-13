@@ -19,3 +19,7 @@ Contact        :- devijagannadh@gmail.com , admin@techdevp.online
 
 For more info about this tool please visit : - www.techdevp.online
 
+
+
+
+Disclaimer: This code is for educational purposes only. Opinions or points of view expressed in this repo. represent the view of the presenter, and does not necessarily represent the official position or policies . Nothing in this tool constitutes legal advice. The individuals appearing in this repo. , if any, are depicted for illustrative purposes only and are presumed innocent until proven guilty in a court of law.
